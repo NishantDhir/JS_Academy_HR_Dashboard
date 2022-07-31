@@ -25,6 +25,6 @@ A Human Resource report.
 - The total number of employees working were 2.2K out of which 3.9 rating was given for Employee satisfaction.
 - The average pay rate per hour was 74.3K.
 - The highest pay rate per hour was 80K  belonged to Rosemary. 
-- Out of the total,51% of Male contributed in male to female ratio.
-- The key influencer was the highest number of salary taker was Female. The highest number of employees were managed by Gray. Most of the employees were hired through references.
+- Out of the total, 51% of Male contributed in male to female ratio.
+- The key influencer was the highest number of salary taker was Female.The highest number of employees were managed by Gray. Most of the employees were hired through references.
 - The hiring trend showed fluctions in Q1 of each year and was record the lowest in 2016. 
